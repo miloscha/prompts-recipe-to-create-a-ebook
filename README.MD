@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [leonardoai](https://www.midjourney.com/app/)
+- [Leonardoai](https://https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema horta em casa, direcionado para mulheres acima de 40 anos, o título deve ser chamativo, com temática bem humorada, me liste 5 variações de títulos.                                              |
+| conteúdo | Faça um texto para ebook , com foco em horta em casa, listando pelo menos 4 principais ervas para cultivo em casa. Explique sempre os benefícios e forma de cultivo de cada uma, de maneira simples e objetiva. Sempre traga exemplos de aplicações no dia a dia de forma bem humorada. |
 
 
-Midjourney：
+Leonardoai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Make a design with a white background and a modern a fun herb home garden aesthetic. Have a variety of the these herbs: mint, scallion, parsley and basil. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardoai
 
 ## 📚 Materiais
 
